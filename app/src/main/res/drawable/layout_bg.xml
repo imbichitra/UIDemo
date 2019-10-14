@@ -1,0 +1,15 @@
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/bag" android:state_enabled="true" android:state_focused="true" android:state_window_focused="true">
+        <!--<shape>
+            <solid android:color="@color/colorAccent"/>
+            <stroke android:color="#2196F3" android:width="2dp" />
+            <corners android:radius="2dp"/>
+        </shape>-->
+    </item>
+    <item>
+        <shape>
+            <stroke android:color="#3F51B5" android:width="2dp"/>
+            <corners android:radius="2dp"/>
+        </shape>
+    </item>
+</selector>
